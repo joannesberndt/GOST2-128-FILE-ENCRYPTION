@@ -1,3 +1,4 @@
+// File encryption with GOST2-128 in GCM mode.
 // Build:
 //   go build -o gost2gcm gost2-128-gcm.go
 //
